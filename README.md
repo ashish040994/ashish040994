@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish040994
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m still learning Machine Learning and corporate dealing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ashishjha.studentrgi@gmail.com
 - 👋 Whatsapp : +91-94711 78361
